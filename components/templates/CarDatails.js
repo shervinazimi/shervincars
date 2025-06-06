@@ -1,4 +1,4 @@
-import styles from "@/components/templates/CarDatails.module.css";
+import styles from "../../components/templates/CarDatails.module.css";
 import Company from "../icons/Company";
 import Model from "../icons/Model";
 import Calender from "../icons/Calender";

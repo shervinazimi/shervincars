@@ -1,5 +1,5 @@
-import CarList from "@/components/templates/CarList";
-import carsData from "@/data/carsData";
+import CarList from "../../components/templates/CarList";
+import carsData from "../../data/carsData";
 
 function Sport() {
   const sportCars = carsData.filter((car) => car.category === "sport");
